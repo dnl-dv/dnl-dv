@@ -21,4 +21,4 @@ Foco em construir, automatizar e monitorar ambientes de TI.
 
 | Projeto | Descrição |
 |---------|-----------|
-| **Zabbix Enterprise Lab** <br> *(Em breve)* | Implementação *hands-on* de monitoramento distribuído com Zabbix 7.0 na Oracle Cloud. Cobre desde o provisionamento aarch64 até criptografia PSK, Auto Registration, análise de logs do Windows e Dashboards globais. |
+| **![Zabbix Enterprise Lab](https://github.com/dnl-dv/zabbix-enterprise-lab)** | Implementação *hands-on* de monitoramento distribuído com Zabbix 7.0 na Oracle Cloud. Cobre desde o provisionamento aarch64 até criptografia PSK, Auto Registration, análise de logs do Windows e Dashboards globais. |
